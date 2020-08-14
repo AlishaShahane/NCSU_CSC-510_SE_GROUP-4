@@ -1,8 +1,8 @@
 <a name=top>
 <a href="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4.git"><img  width=700
-  src="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4/misc/software-engineering.jpg"></a>
+  src="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4/blob/master/misc/software-engineering.jpg"></a>
 <p align="center">  
-# NCSU_CSC-510_SE_GROUP-4
+  <h3> NCSU_CSC-510_SE_GROUP-4 </h3>
   </p>
 
 Group Members:
