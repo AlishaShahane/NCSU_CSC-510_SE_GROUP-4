@@ -1,7 +1,7 @@
+<p align="center">
 <a name=top>
-<a href="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4.git"><img  width=700
-  src="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4/blob/master/misc/software-engineering.jpg"></a>
-<p align="center">  
+<a href="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4.git"><img  width=700 align=center
+  src="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4/blob/master/misc/software-engineering.jpg"></a> 
 <h3 style="text-align:center"> NCSU_CSC-510_SE_GROUP-4 </h3>
 </p>
 
