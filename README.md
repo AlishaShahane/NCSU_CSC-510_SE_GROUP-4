@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4.svg?branch=master)](https://travis-ci.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4)
 <p align="center">
 <a name=top>
 <a href="https://github.com/AlishaShahane/NCSU_CSC-510_SE_GROUP-4.git"><img  width=700 align=center
