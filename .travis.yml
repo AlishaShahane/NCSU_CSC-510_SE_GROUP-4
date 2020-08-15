@@ -1,9 +1,9 @@
-language: python
+language: python #Language support to enable
 python:
   - "3.7"
-os: linux
-dist: xenial
-install:
+os: linux 
+dist: xenial 
+install: 
   - pip install -r requirements.txt
-script:
+script: 
   - pytest
